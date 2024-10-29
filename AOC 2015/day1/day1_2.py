@@ -1,4 +1,6 @@
-with open('input.txt','r') as f:
+with open("C:/Users/Acer/Desktop/AOC/AOC 2015/day1/input.txt",'r') as f:
+    # your code here
+
     i=0
     j=0
     while True:

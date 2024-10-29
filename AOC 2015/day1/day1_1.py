@@ -1,6 +1,6 @@
 # Open the file in read mode
 
-with open("input.txt", 'r') as f:
+with open("C:/Users/Acer/Desktop/AOC/AOC 2015/day1/input.txt",'r') as f:
     i = 0  # Initialize the counter variable
     while True:
         char = f.read(1)  # Read one character
