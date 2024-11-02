@@ -54,5 +54,5 @@ with open("C:\\Users\\Acer\\Desktop\\AOC\\AOC 2015\\day5\\input5.txt", 'r') as f
         if vowel_count >= 3 and not contains_forbidden and count > 0:
             nice += 1
 
-print(nice)
+print("total nice words",nice)
 
